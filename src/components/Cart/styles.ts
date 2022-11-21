@@ -27,7 +27,10 @@ export const QuantityContainer = styled.View`
 
 export const ProductDetails = styled.View``;
 
-export const TotalContainer = styled.View``;
+export const TotalContainer = styled.View`
+  margin-right: 32px;
+  flex: 1;
+`;
 
 export const Sumary = styled.View`
   flex-direction: row;
